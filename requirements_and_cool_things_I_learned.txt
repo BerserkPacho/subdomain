@@ -1,2 +1,6 @@
 # REQUIREMENTS: 
 - JUST THE BASICS AND WGET 
+
+The thing I learned it that you can echo text with color using "tput setaf", like: 
+      tput setaf 1 
+Each number represents a color 
